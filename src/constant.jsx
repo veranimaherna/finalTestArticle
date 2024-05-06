@@ -1,0 +1,1 @@
+export const baseUrl = "https://api-trials.x5.com.au"
